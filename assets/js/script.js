@@ -133,6 +133,6 @@ function afterPjax() {
   //     ds_loaded = true;
   //   }
   // }check();
-  container.scroll(check);
+  // container.scroll(check);
 }afterPjax();
 
