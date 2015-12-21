@@ -31,3 +31,8 @@ rss_url: /pages/atom.xml
 # disqus 设置
 # disqus:
 #   shortname: suyan-zh
+
+comments :
+    provider : duoshuo
+    duoshuo :
+      short_name : FEdaily
