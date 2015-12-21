@@ -30,8 +30,8 @@ rss_url: /pages/atom.xml
 
 # disqus 设置
 # disqus:
-#   shortname: suyan-zh
-
+#   shortname: suyan-zh 
+# https://github.com/suyan/suyan.github.io
 comments :
     provider : duoshuo
     duoshuo :
