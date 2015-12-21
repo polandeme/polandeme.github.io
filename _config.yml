@@ -16,7 +16,7 @@ author:
 # 站点信息
 title: 前端 
 description: 整理推荐前端.程序文章
-url: http://polande.com
+url: https://polandeme.github.io
 rss_url: /pages/atom.xml
 
 # avatar头像及Favicon
@@ -32,6 +32,7 @@ rss_url: /pages/atom.xml
 # disqus:
 #   shortname: suyan-zh 
 # https://github.com/suyan/suyan.github.io
+
 comments :
     provider : duoshuo
     duoshuo :
