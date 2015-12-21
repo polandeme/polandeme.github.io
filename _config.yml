@@ -1,31 +1,33 @@
-# Site settings
-title: Peiwen Lu
-email: "&#104;&#105;&#064;&#112;&#101;&#105;&#119;&#101;&#110;&#046;&#108;&#117;"
-description: "Peiwen Lu's front-end blog."
-baseurl: ""
-url: "http://peiwen.lu"
-permalink: /:year/:title
-
-
-# Social account
-twitter:  PeiwenLu
-# weibo:    ID
-github:   P233
-codepen:  P233
-# dribbble: username
-
-
-# Comment
-# disqus_shortname:
-
-
-# Google Analytics
-google_analytics: UA-60830414-1
-
-
-# Build settings
+permalink: /:year/:month/:day/:title.html
 markdown: kramdown
-sass:
-  style: compressed
-gems:
-  - jekyll-sitemap
+pygments: true
+
+kramdown:
+  input: GFM
+
+# 作者信息
+author: 
+  name: polandeme
+  email: polandeme@gmail.com
+  link: http://polande.com
+  weibo: http://weibo.com/chinahgr
+  github: http://github.com/polandeme
+
+# 站点信息
+title: 闫肃的博客 
+description: 闫肃的博客
+url: http://yansu.org
+rss_url: /pages/atom.xml
+
+# avatar头像及Favicon
+# avatar: http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png
+# favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
+
+# google analytics 设置
+# ga:
+#   id: UA-54767140-1
+#   url: yansu.org
+
+# disqus 设置
+# disqus:
+#   shortname: suyan-zh
